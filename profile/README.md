@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, here Cada 2 x 3 playground
+
+A github Organization to test out and fork some intresting repos to tinker with them.
+
+The name "Cada 2 x 3 playground" is the combination of a Spanish saying and the well known English word playground.
+
+
+
 
 <!--
 
